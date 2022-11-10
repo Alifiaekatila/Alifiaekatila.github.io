@@ -47,7 +47,16 @@
     "versionPublish": "5.6.13",
     "imageResize": true,
     "screenshot": "screenshot.png",
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "favicon": "@PROJECT_PATH@/assets/images/whatsapp-image-2022-10-20-at-11.24.42-128x192_2.png",
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "sitemapSwitcher": false,
+    "siteUrl": false,
+    "sitemapSwitcherAuto": "on",
+    "mbrsiteDomain": "alifiaekatilaputriyani",
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
